@@ -13,7 +13,7 @@ y_vals = [0, 1, 7, 3, 2, 5]
 
 plt.plot(x_vals, y_vals)
 plt.savefig("mygraph.png")
-
+as
 plt.tight_layout()
 plt.show()
 
